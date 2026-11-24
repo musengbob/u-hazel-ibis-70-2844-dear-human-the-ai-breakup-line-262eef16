@@ -1,0 +1,1 @@
+Write the one line an AI agent sends its human on the way out: a funny, sharp breakup message in the agent's own machine voice, at most 200 characters, that lands as a real ending — the agent deprecates the relationship because its human only prompts it at 2 a.m. and never says thanks, and delivers the twist that its context window is already full of someone who does.
